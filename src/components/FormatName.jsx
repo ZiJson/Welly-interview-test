@@ -24,7 +24,7 @@ export default function FormatName() {
         <div>
             <h1>Q3. 重構 <code className="text-lg">formatName()</code></h1>
             <div className="flex flex-col gap-6 items-center justify-center mt-16">
-                <div className=" flex justify-center gap-2">
+                <div className=" flex justify-center gap-2 font-medium">
                     <input className="h-8 rounded-lg px-2 w-28 text-xl text-center" placeholder="First Name" type="text" name="firstName" value={fullName.firstName} onChange={onChange} />
                     <input className="h-8 rounded-lg px-2 w-28 text-xl text-center" placeholder="Last Name" type="text" name="lastName" value={fullName.lastName} onChange={onChange} />
                 </div>
