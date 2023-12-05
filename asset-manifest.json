@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Welly-interview-test/static/css/main.5ee885cd.css",
-    "main.js": "/Welly-interview-test/static/js/main.896b9cab.js",
+    "main.css": "/Welly-interview-test/static/css/main.1259f040.css",
+    "main.js": "/Welly-interview-test/static/js/main.a3ddefa6.js",
     "static/js/787.c9236c5e.chunk.js": "/Welly-interview-test/static/js/787.c9236c5e.chunk.js",
     "index.html": "/Welly-interview-test/index.html",
-    "main.5ee885cd.css.map": "/Welly-interview-test/static/css/main.5ee885cd.css.map",
-    "main.896b9cab.js.map": "/Welly-interview-test/static/js/main.896b9cab.js.map",
+    "main.1259f040.css.map": "/Welly-interview-test/static/css/main.1259f040.css.map",
+    "main.a3ddefa6.js.map": "/Welly-interview-test/static/js/main.a3ddefa6.js.map",
     "787.c9236c5e.chunk.js.map": "/Welly-interview-test/static/js/787.c9236c5e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ee885cd.css",
-    "static/js/main.896b9cab.js"
+    "static/css/main.1259f040.css",
+    "static/js/main.a3ddefa6.js"
   ]
 }
