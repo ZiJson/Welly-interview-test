@@ -1,8 +1,8 @@
 ### Welly 面試題目回答
 你好，我是林子捷，我選擇回答5題，並將題目分成5份js檔分別回答
-- src/Welly_InterviewTest/Problem_1.js
-- src/Welly_InterviewTest/Problem_2.js
-- src/Welly_InterviewTest/Problem_3.js
+- src/Welly_InterviewTest/Problem_1.mjs
+- src/Welly_InterviewTest/Problem_2.mjs
+- src/Welly_InterviewTest/Problem_3.mjs
 - src/Welly_InterviewTest/Problem_4.js
 - src/Welly_InterviewTest/Problem_5.js
 
