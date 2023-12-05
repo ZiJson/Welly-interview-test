@@ -7,7 +7,7 @@ import ConditionalRender from './components/ConditionalRender';
 import { Counter } from './Welly_InterviewTest';
 function App() {
   return (
-    <div className="container px-20 py-24  mx-auto flex flex-wrap gap-10 justify-center ">
+    <div className="container px-0 py-24 md:px-20 mx-auto flex flex-wrap gap-10 justify-center ">
       <div className='display_block'>
         <ReverseString />
       </div>
