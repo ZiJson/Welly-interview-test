@@ -11,12 +11,12 @@ function filterNumbersGreaterThanFive(numbers) {
 
 function filterNumbersGreaterThanFive(numbers) {
     // 實作你的解答
-    if(typeof(numbers)!=="object") return "Error: invalid input";
+    if(!Array.isArray(numbers)) return "Error: invalid input";
 
     const ans = numbers.filter((num)=>num>5);
     return ans
 }
 
-console.log(filterNumbersGreaterThanFive([1,3,,66,5,6,9]))
+console.log(filterNumbersGreaterThanFive("fe"))
 
 export default filterNumbersGreaterThanFive;
