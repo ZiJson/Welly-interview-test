@@ -1,23 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
 
+import './App.css';
+import ReverseString from './components/ReverseString';
+import FilterNumbers from './components/FilterNumbers';
+import FormatName from './components/FormatName';
+import ConditionalRender from './components/ConditionalRender';
+import { Counter } from './Welly_InterviewTest';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container px-20 py-24  mx-auto flex flex-wrap gap-10 justify-center ">
+      <div className='display_block'>
+        <ReverseString />
+      </div>
+      <div className='display_block'>
+        <FilterNumbers />
+      </div>
+      <div className='display_block'>
+        <FormatName />
+      </div>
+      <div className='display_block'>
+        <ConditionalRender />
+      </div>
+      <div className='display_block'>
+        <Counter/>
+      </div>
     </div>
   );
 }
